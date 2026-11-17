@@ -1,6 +1,6 @@
 cask "docent" do
-  version "0.1.0"
-  sha256 "a02f5876ce8797918ee11c324034e63495ec6aceb901cbdb3f6c42b49b40e5a9"
+  version "0.2.0"
+  sha256 "ecfd7d23899f9be1dd87cd9c7d4b3f76ee5b9f86cb482738d46ee0ba08517186"
 
   url "https://github.com/primandproper/docent/releases/download/v#{version}/Docent-v#{version}.zip"
   name "Docent"
